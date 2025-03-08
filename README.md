@@ -14,7 +14,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About Me
-[![My Contribution in the team Screen Shot][contribution-screenshot]](https://drive.google.com/file/d/1m0XIH9XannDq_zUi29-QM5WYJm92VFhB/view?usp=drive_link)
+[![My Contribution in the current project screenshot][contribution-screenshot]](https://drive.google.com/file/d/1m0XIH9XannDq_zUi29-QM5WYJm92VFhB/view?usp=drive_link)
 
 Hi, I am a software engineer working for Accenture. I am part of the backend team that is creating an End-to-End application for T-Mobile for the past 2 years now.
 
