@@ -24,7 +24,7 @@ Please find this screen shot above from my projects gitlab. This shows my contri
 
 I am also attaching the feedbacks received from co-workers and managers in accenture portal. 
 
-![Feedbacks-Received](https://drive.google.com/file/d/1rQlL1LUZRIC6bNBZAye3oAXqLnPQ1Qyh/view?usp=drive_link) "Feedbacks")
+[![Feedbacks-Received][Feedbacks]](https://drive.google.com/file/d/1rQlL1LUZRIC6bNBZAye3oAXqLnPQ1Qyh/view?usp=drive_link)
 
 
 
