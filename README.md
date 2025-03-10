@@ -28,7 +28,7 @@ Please find the screenshot above from my project's GitLab. This shows my contrib
 
 I am also attaching the feedback from co-workers and managers in the Accenture portal. 
 
-[![Feedbacks-Received][Feedbacks]](https://drive.google.com/file/d/1rQlL1LUZRIC6bNBZAye3oAXqLnPQ1Qyh/view?usp=drive_link)
+[![Feedbacks-Received][Feedbacks]](https://drive.google.com/file/d/1rQlL1LUZRIC6bNBZAye3oAXqLnPQ1Qyh/view?usp=drive_link](https://drive.google.com/file/d/1NrDIVImZrjpd1cLsL2_wV9_218vvObX6/view?usp=drive_link))
 
 
 Tech Stack- 
